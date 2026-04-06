@@ -110,6 +110,7 @@ Organized loosely. Sections grow as I dig in.
 4. [Claude Skills](https://simonwillison.net/2025/Jun/6/claude-skills/): Simon Willison's analysis of the Claude skills system. Clear-eyed take on what works and what's hype. (2025)
 5. [Lessons from Building Claude Code: How We Use Skills](https://x.com/trq212/status/2033949937936085378): Thariq (Anthropic) on skill taxonomy (9 categories), authoring tips (gotchas sections, progressive disclosure, on-demand hooks), distribution via plugin marketplaces, and measuring skill usage with PreToolUse hooks. (2026)
 6. [agentskills.io](https://agentskills.io/): Open standard specification for agent skills. Covers the progressive disclosure model and best practices for SKILL.md authoring. (2025)
+7. [Continual Learning for AI Agents](https://blog.langchain.com/continual-learning-for-ai-agents/): LangChain's framework for agent learning across three layers: model weights (fine-tuning, RL), harness code (meta-harness optimization via trace analysis), and contextual memory (agent/user/org-level, offline "dreaming" vs real-time). (2026)
 
 ---
 
